@@ -8,9 +8,9 @@ during my school days:
 
 This curiosity fueled my fascination with automation and innovation, leading me to:
 
-- Build my first projects like **automated streetlights** and **smart home systems** during secondary school.
+- Build my first projects **automated streetlights** and **smart home systems** during secondary school.
 - Dive into mobile robotics, learning tools like **Arduino and Raspberry Pi**, and expanding my coding skills.
-- Transition into more advanced projects during my undergraduate studies in **Robotics and Automation**.
+- Progressed to more advanced projects during my undergraduate studies in **Robotics and Automation**.
 
 Today, I’m equipping myself with the latest skills in **Data Science and AI**, preparing to contribute to 
 groundbreaking innovations in robotics and automation.
