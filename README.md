@@ -32,7 +32,7 @@ My academic journey reflects a strong focus on robotics, automation, and data sc
   - Building expertise in **Python**, **Machine Learning**, **Deep Learning**, and **Natural Language Processing**.  
   - Working on 50+ industry projects, including predictive analytics and image classification.
 
-- **Diploma in Data Science and Programming** *(Ongoing)*  
+- **Foundational course in Data Science and Programming** *(Ongoing)*  
   - *IIT Madras, India*  
   - Focused on **Mathematics**, **Statistics**, and **Computational Thinking**, creating a solid foundation for applied AI in robotics.
 
