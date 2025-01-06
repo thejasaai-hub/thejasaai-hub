@@ -78,8 +78,36 @@ apply theoretical knowledge to solve real-world problems:
   - Worked with **ROS** and **ROS 2** tools, focusing on real-world robot programming and integration (August 2022).  
 
 - **Medsby Healthcare and Engineering Solutions Training Program**  
-  - Acquired expertise in **3D printing**, **robotics**, **AI**, and **biomechanics**, enhancing innovation in healthcare engineering (May 2021).  
+  - Acquired expertise in **3D printing**, **robotics**, **AI**, and **biomechanics**, enhancing innovation in healthcare engineering (May 2021).
 
+## 🌍 **Extracurricular Activities**
+
+### Environmental Work & Community Development
+*2016 - Present*
+- **Volunteered** in projects focused on restoring rivers, transforming garbage dumps into gardens, and **organizing plantation
+  drives** in urban areas to promote environmental sustainability.
+- **Created herbal and flower gardens** in rural schools, enhancing the environment and providing educational opportunities
+  about plants and nature for students.
+- **Worked** on **wall painting initiatives** in rural schools, improving the learning environment and creating vibrant spaces for children.
+- Organized **seed ball activities** to engage the community in environmental education and raise awareness about sustainability.
+
+### Social Service & Educational Support
+*2016 - Present*
+- **Provided educational support** to rural schools through **NGOs**, assisting children with learning materials, tutoring, and academic guidance.
+- **Volunteered** at **shelters for children** and **old age homes**, providing essential needs such as food, clothing, and personal care to
+  improve the quality of life for both children and the elderly.
+
+### Rotaract Club Member
+*2022 - 2023*
+- Actively participated in the **Rotaract Club**, contributing to several **environmental and social-related activities**
+  aimed at community service and raising awareness.
+- **Conducted seminars** for students to increase awareness on social issues and environmental sustainability,
+  encouraging active participation in community development.
+
+### Awards & Recognition
+- Recognized by multiple **NGOs** for exceptional social contributions and awarded the **Young Achiever** title for two consecutive years in high school.
+- Nominated and awarded the **International Kalams Award 2019** for being the **youngest social worker** and making significant contributions to society.
+- **Awarded a badge** for active working in the **Rotaract Club in 2023**, acknowledging outstanding contributions to community service and club activities.
 
   
 	
