@@ -109,6 +109,26 @@ apply theoretical knowledge to solve real-world problems:
 - Nominated and awarded the **International Kalams Award 2019** for being the **youngest social worker** and making significant contributions to society.
 - **Awarded a badge** for active working in the **Rotaract Club in 2023**, acknowledging outstanding contributions to community service and club activities.
 
+## 🌟 Skills, Hobbies & Interests
+
+### 🍰 Baking
+- Completed a **professional baking course**, gaining hands-on experience.
+- Skilled in creating **custom cakes, pastries, and bread items**, with a passion for experimenting with new recipes and flavors.
+- Excelled in **making chocolates**, specializing in various chocolate confections.
+- Knowledgeable in **international baking techniques**, expanding my baking repertoire to include global flavors and styles.
+
+### ✈️ Traveling
+- Passionate about **traveling and exploring** diverse cultures and historical landmarks across the globe.
+- Traveled to **nine different countries**, gaining valuable insights into **local traditions, historical sites, and cultural heritage**.
+- Embraced diverse cultures, enhancing my global perspective and understanding of the importance of **environmental sustainability**.
+
+### 🚁 Drone Piloting
+- Skilled in operating drones for **aerial photography, videography, and surveillance applications**.
+- Proficient in capturing high-quality footage with a keen eye for detail and creative perspectives.
+- Well-versed in **drone safety protocols and regulations**, ensuring compliance during operations.
+- Enthusiastic about exploring new technologies and applying drone piloting to creative and professional projects.
+- Soon to receive a **drone piloting license**, further enhancing my qualifications in the field.
+
   
 	
 
